@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Почтовые индексы России — открытые данные
+message: При использовании данных сошлитесь на этот набор
+type: dataset
+authors:
+  - name: Индексы России
+url: https://pochtovyindex.ru
+repository-code: https://github.com/anpalcactus/russian-postal-codes
+license: CC-BY-4.0
+date-released: '2026-08-11'

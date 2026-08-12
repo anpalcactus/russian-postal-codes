@@ -1,0 +1,1418 @@
+{
+ "source": "АО «Почта России», эталонный справочник почтовых индексов ОПС",
+ "source_url": "https://www.pochta.ru/support/database/ops",
+ "release_date": "2026-08-11",
+ "regions": [
+  {
+   "name": "Алтайский край",
+   "slug": "altayskiy-kray",
+   "url": "https://pochtovyindex.ru/altayskiy-kray/",
+   "offices": 1242,
+   "areas": 59,
+   "cities": 835,
+   "index_prefixes": [
+    "656",
+    "658",
+    "659",
+    "901",
+    "910",
+    "915",
+    "916",
+    "917"
+   ]
+  },
+  {
+   "name": "Амурская область",
+   "slug": "amurskaya-oblast",
+   "url": "https://pochtovyindex.ru/amurskaya-oblast/",
+   "offices": 488,
+   "areas": 20,
+   "cities": 299,
+   "index_prefixes": [
+    "675",
+    "676",
+    "901"
+   ]
+  },
+  {
+   "name": "Архангельская область",
+   "slug": "arhangelskaya-oblast",
+   "url": "https://pochtovyindex.ru/arhangelskaya-oblast/",
+   "offices": 743,
+   "areas": 20,
+   "cities": 452,
+   "index_prefixes": [
+    "163",
+    "164",
+    "165",
+    "947"
+   ]
+  },
+  {
+   "name": "Астраханская область",
+   "slug": "astrahanskaya-oblast",
+   "url": "https://pochtovyindex.ru/astrahanskaya-oblast/",
+   "offices": 344,
+   "areas": 11,
+   "cities": 187,
+   "index_prefixes": [
+    "414",
+    "416",
+    "910",
+    "913",
+    "915",
+    "917"
+   ]
+  },
+  {
+   "name": "Байконур",
+   "slug": "baykonur",
+   "url": "https://pochtovyindex.ru/baykonur/",
+   "offices": 10,
+   "areas": 0,
+   "cities": 1,
+   "index_prefixes": [
+    "468"
+   ]
+  },
+  {
+   "name": "Белгородская область",
+   "slug": "belgorodskaya-oblast",
+   "url": "https://pochtovyindex.ru/belgorodskaya-oblast/",
+   "offices": 736,
+   "areas": 21,
+   "cities": 478,
+   "index_prefixes": [
+    "308",
+    "309",
+    "992"
+   ]
+  },
+  {
+   "name": "Брянская область",
+   "slug": "bryanskaya-oblast",
+   "url": "https://pochtovyindex.ru/bryanskaya-oblast/",
+   "offices": 733,
+   "areas": 27,
+   "cities": 510,
+   "index_prefixes": [
+    "241",
+    "242",
+    "243",
+    "961",
+    "991",
+    "996"
+   ]
+  },
+  {
+   "name": "Владимирская область",
+   "slug": "vladimirskaya-oblast",
+   "url": "https://pochtovyindex.ru/vladimirskaya-oblast/",
+   "offices": 531,
+   "areas": 16,
+   "cities": 321,
+   "index_prefixes": [
+    "600",
+    "601",
+    "602",
+    "962"
+   ]
+  },
+  {
+   "name": "Волгоградская область",
+   "slug": "volgogradskaya-oblast",
+   "url": "https://pochtovyindex.ru/volgogradskaya-oblast/",
+   "offices": 1207,
+   "areas": 33,
+   "cities": 697,
+   "index_prefixes": [
+    "400",
+    "403",
+    "404",
+    "910",
+    "913",
+    "914",
+    "915",
+    "916",
+    "917",
+    "918",
+    "919"
+   ]
+  },
+  {
+   "name": "Вологодская область",
+   "slug": "vologodskaya-oblast",
+   "url": "https://pochtovyindex.ru/vologodskaya-oblast/",
+   "offices": 781,
+   "areas": 26,
+   "cities": 560,
+   "index_prefixes": [
+    "160",
+    "161",
+    "162",
+    "948"
+   ]
+  },
+  {
+   "name": "Воронежская область",
+   "slug": "voronezhskaya-oblast",
+   "url": "https://pochtovyindex.ru/voronezhskaya-oblast/",
+   "offices": 1277,
+   "areas": 32,
+   "cities": 720,
+   "index_prefixes": [
+    "394",
+    "396",
+    "397",
+    "901",
+    "910",
+    "913",
+    "916",
+    "917",
+    "918",
+    "993"
+   ]
+  },
+  {
+   "name": "Еврейская автономная область",
+   "slug": "evreyskaya-avtonomnaya-oblast",
+   "url": "https://pochtovyindex.ru/evreyskaya-avtonomnaya-oblast/",
+   "offices": 93,
+   "areas": 5,
+   "cities": 71,
+   "index_prefixes": [
+    "679"
+   ]
+  },
+  {
+   "name": "Забайкальский край",
+   "slug": "zabaykalskiy-kray",
+   "url": "https://pochtovyindex.ru/zabaykalskiy-kray/",
+   "offices": 560,
+   "areas": 31,
+   "cities": 372,
+   "index_prefixes": [
+    "672",
+    "673",
+    "674",
+    "687",
+    "994"
+   ]
+  },
+  {
+   "name": "Ивановская область",
+   "slug": "ivanovskaya-oblast",
+   "url": "https://pochtovyindex.ru/ivanovskaya-oblast/",
+   "offices": 400,
+   "areas": 21,
+   "cities": 218,
+   "index_prefixes": [
+    "153",
+    "155",
+    "962"
+   ]
+  },
+  {
+   "name": "Иркутская область",
+   "slug": "irkutskaya-oblast",
+   "url": "https://pochtovyindex.ru/irkutskaya-oblast/",
+   "offices": 964,
+   "areas": 33,
+   "cities": 485,
+   "index_prefixes": [
+    "664",
+    "665",
+    "666",
+    "669",
+    "901",
+    "910",
+    "913",
+    "915",
+    "916",
+    "917",
+    "994"
+   ]
+  },
+  {
+   "name": "Кабардино-Балкарская Республика",
+   "slug": "kabardino-balkarskaya-respublika",
+   "url": "https://pochtovyindex.ru/kabardino-balkarskaya-respublika/",
+   "offices": 296,
+   "areas": 10,
+   "cities": 133,
+   "index_prefixes": [
+    "360",
+    "361"
+   ]
+  },
+  {
+   "name": "Калининградская область",
+   "slug": "kaliningradskaya-oblast",
+   "url": "https://pochtovyindex.ru/kaliningradskaya-oblast/",
+   "offices": 307,
+   "areas": 15,
+   "cities": 141,
+   "index_prefixes": [
+    "236",
+    "238",
+    "947"
+   ]
+  },
+  {
+   "name": "Калужская область",
+   "slug": "kaluzhskaya-oblast",
+   "url": "https://pochtovyindex.ru/kaluzhskaya-oblast/",
+   "offices": 554,
+   "areas": 24,
+   "cities": 335,
+   "index_prefixes": [
+    "248",
+    "249",
+    "962",
+    "994"
+   ]
+  },
+  {
+   "name": "Камчатский край",
+   "slug": "kamchatskiy-kray",
+   "url": "https://pochtovyindex.ru/kamchatskiy-kray/",
+   "offices": 143,
+   "areas": 11,
+   "cities": 66,
+   "index_prefixes": [
+    "683",
+    "684",
+    "688"
+   ]
+  },
+  {
+   "name": "Карачаево-Черкесская Республика",
+   "slug": "karachaevo-cherkesskaya-respublika",
+   "url": "https://pochtovyindex.ru/karachaevo-cherkesskaya-respublika/",
+   "offices": 171,
+   "areas": 10,
+   "cities": 105,
+   "index_prefixes": [
+    "369",
+    "997"
+   ]
+  },
+  {
+   "name": "Кемеровская область",
+   "slug": "kemerovskaya-oblast",
+   "url": "https://pochtovyindex.ru/kemerovskaya-oblast/",
+   "offices": 858,
+   "areas": 19,
+   "cities": 337,
+   "index_prefixes": [
+    "650",
+    "652",
+    "653",
+    "654",
+    "913",
+    "914",
+    "915",
+    "916",
+    "993"
+   ]
+  },
+  {
+   "name": "Кировская область",
+   "slug": "kirovskaya-oblast",
+   "url": "https://pochtovyindex.ru/kirovskaya-oblast/",
+   "offices": 855,
+   "areas": 39,
+   "cities": 526,
+   "index_prefixes": [
+    "610",
+    "612",
+    "613",
+    "901",
+    "910",
+    "913",
+    "916",
+    "917",
+    "918",
+    "993"
+   ]
+  },
+  {
+   "name": "Костромская область",
+   "slug": "kostromskaya-oblast",
+   "url": "https://pochtovyindex.ru/kostromskaya-oblast/",
+   "offices": 460,
+   "areas": 24,
+   "cities": 324,
+   "index_prefixes": [
+    "156",
+    "157",
+    "963"
+   ]
+  },
+  {
+   "name": "Краснодарский край",
+   "slug": "krasnodarskiy-kray",
+   "url": "https://pochtovyindex.ru/krasnodarskiy-kray/",
+   "offices": 1642,
+   "areas": 38,
+   "cities": 725,
+   "index_prefixes": [
+    "350",
+    "352",
+    "353",
+    "354",
+    "910",
+    "914",
+    "915",
+    "916",
+    "917",
+    "918",
+    "993"
+   ]
+  },
+  {
+   "name": "Красноярский край",
+   "slug": "krasnoyarskiy-kray",
+   "url": "https://pochtovyindex.ru/krasnoyarskiy-kray/",
+   "offices": 1175,
+   "areas": 42,
+   "cities": 555,
+   "index_prefixes": [
+    "647",
+    "648",
+    "660",
+    "662",
+    "663",
+    "901",
+    "910",
+    "913",
+    "914",
+    "915",
+    "916",
+    "917",
+    "918",
+    "993"
+   ]
+  },
+  {
+   "name": "Курганская область",
+   "slug": "kurganskaya-oblast",
+   "url": "https://pochtovyindex.ru/kurganskaya-oblast/",
+   "offices": 547,
+   "areas": 24,
+   "cities": 404,
+   "index_prefixes": [
+    "640",
+    "641",
+    "997"
+   ]
+  },
+  {
+   "name": "Курская область",
+   "slug": "kurskaya-oblast",
+   "url": "https://pochtovyindex.ru/kurskaya-oblast/",
+   "offices": 819,
+   "areas": 28,
+   "cities": 622,
+   "index_prefixes": [
+    "305",
+    "306",
+    "307",
+    "993"
+   ]
+  },
+  {
+   "name": "Ленинградская область",
+   "slug": "leningradskaya-oblast",
+   "url": "https://pochtovyindex.ru/leningradskaya-oblast/",
+   "offices": 730,
+   "areas": 17,
+   "cities": 406,
+   "index_prefixes": [
+    "187",
+    "188",
+    "910",
+    "914",
+    "915",
+    "917",
+    "918",
+    "919",
+    "990"
+   ]
+  },
+  {
+   "name": "Липецкая область",
+   "slug": "lipeckaya-oblast",
+   "url": "https://pochtovyindex.ru/lipeckaya-oblast/",
+   "offices": 672,
+   "areas": 18,
+   "cities": 423,
+   "index_prefixes": [
+    "398",
+    "399",
+    "910",
+    "913",
+    "915",
+    "916",
+    "917",
+    "918",
+    "993"
+   ]
+  },
+  {
+   "name": "Магаданская область",
+   "slug": "magadanskaya-oblast",
+   "url": "https://pochtovyindex.ru/magadanskaya-oblast/",
+   "offices": 67,
+   "areas": 8,
+   "cities": 33,
+   "index_prefixes": [
+    "685",
+    "686"
+   ]
+  },
+  {
+   "name": "Москва",
+   "slug": "moskva",
+   "url": "https://pochtovyindex.ru/moskva/",
+   "offices": 5486,
+   "areas": 9,
+   "cities": 36,
+   "index_prefixes": [
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "111",
+    "115",
+    "117",
+    "119",
+    "121",
+    "123",
+    "124",
+    "125",
+    "127",
+    "129",
+    "130",
+    "131",
+    "144",
+    "500",
+    "800",
+    "801",
+    "802",
+    "803",
+    "804",
+    "805",
+    "901",
+    "910",
+    "912",
+    "913",
+    "914",
+    "915",
+    "916",
+    "917",
+    "918",
+    "919",
+    "920",
+    "990",
+    "994",
+    "998"
+   ]
+  },
+  {
+   "name": "Московская область",
+   "slug": "moskovskaya-oblast",
+   "url": "https://pochtovyindex.ru/moskovskaya-oblast/",
+   "offices": 2801,
+   "areas": 18,
+   "cities": 317,
+   "index_prefixes": [
+    "101",
+    "102",
+    "104",
+    "130",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "910",
+    "913",
+    "914",
+    "915",
+    "917",
+    "918",
+    "919",
+    "994",
+    "998"
+   ]
+  },
+  {
+   "name": "Мурманская область",
+   "slug": "murmanskaya-oblast",
+   "url": "https://pochtovyindex.ru/murmanskaya-oblast/",
+   "offices": 206,
+   "areas": 6,
+   "cities": 59,
+   "index_prefixes": [
+    "183",
+    "184",
+    "948"
+   ]
+  },
+  {
+   "name": "Ненецкий автономный округ",
+   "slug": "neneckiy-avtonomnyy-okrug",
+   "url": "https://pochtovyindex.ru/neneckiy-avtonomnyy-okrug/",
+   "offices": 40,
+   "areas": 1,
+   "cities": 29,
+   "index_prefixes": [
+    "166"
+   ]
+  },
+  {
+   "name": "Нижегородская область",
+   "slug": "nizhegorodskaya-oblast",
+   "url": "https://pochtovyindex.ru/nizhegorodskaya-oblast/",
+   "offices": 1576,
+   "areas": 40,
+   "cities": 611,
+   "index_prefixes": [
+    "603",
+    "606",
+    "607",
+    "910",
+    "911",
+    "913",
+    "914",
+    "915",
+    "916",
+    "994"
+   ]
+  },
+  {
+   "name": "Новгородская область",
+   "slug": "novgorodskaya-oblast",
+   "url": "https://pochtovyindex.ru/novgorodskaya-oblast/",
+   "offices": 441,
+   "areas": 21,
+   "cities": 326,
+   "index_prefixes": [
+    "173",
+    "174",
+    "175",
+    "946",
+    "993"
+   ]
+  },
+  {
+   "name": "Новосибирская область",
+   "slug": "novosibirskaya-oblast",
+   "url": "https://pochtovyindex.ru/novosibirskaya-oblast/",
+   "offices": 1130,
+   "areas": 30,
+   "cities": 576,
+   "index_prefixes": [
+    "630",
+    "632",
+    "633",
+    "901",
+    "911",
+    "913",
+    "915",
+    "916",
+    "917",
+    "991"
+   ]
+  },
+  {
+   "name": "Омская область",
+   "slug": "omskaya-oblast",
+   "url": "https://pochtovyindex.ru/omskaya-oblast/",
+   "offices": 858,
+   "areas": 32,
+   "cities": 483,
+   "index_prefixes": [
+    "644",
+    "646",
+    "901",
+    "910",
+    "911",
+    "913",
+    "914",
+    "915",
+    "916",
+    "917",
+    "919",
+    "991"
+   ]
+  },
+  {
+   "name": "Оренбургская область",
+   "slug": "orenburgskaya-oblast",
+   "url": "https://pochtovyindex.ru/orenburgskaya-oblast/",
+   "offices": 1103,
+   "areas": 34,
+   "cities": 728,
+   "index_prefixes": [
+    "460",
+    "461",
+    "462",
+    "901",
+    "913",
+    "914",
+    "915",
+    "916",
+    "917",
+    "994"
+   ]
+  },
+  {
+   "name": "Орловская область",
+   "slug": "orlovskaya-oblast",
+   "url": "https://pochtovyindex.ru/orlovskaya-oblast/",
+   "offices": 566,
+   "areas": 24,
+   "cities": 417,
+   "index_prefixes": [
+    "302",
+    "303",
+    "994"
+   ]
+  },
+  {
+   "name": "Пензенская область",
+   "slug": "penzenskaya-oblast",
+   "url": "https://pochtovyindex.ru/penzenskaya-oblast/",
+   "offices": 704,
+   "areas": 27,
+   "cities": 424,
+   "index_prefixes": [
+    "440",
+    "442",
+    "911",
+    "913",
+    "914",
+    "915",
+    "917"
+   ]
+  },
+  {
+   "name": "Пермский край",
+   "slug": "permskiy-kray",
+   "url": "https://pochtovyindex.ru/permskiy-kray/",
+   "offices": 941,
+   "areas": 33,
+   "cities": 437,
+   "index_prefixes": [
+    "614",
+    "617",
+    "618",
+    "619",
+    "901",
+    "913",
+    "916",
+    "917",
+    "918"
+   ]
+  },
+  {
+   "name": "Приморский край",
+   "slug": "primorskiy-kray",
+   "url": "https://pochtovyindex.ru/primorskiy-kray/",
+   "offices": 739,
+   "areas": 22,
+   "cities": 249,
+   "index_prefixes": [
+    "690",
+    "692",
+    "901",
+    "910",
+    "914",
+    "915",
+    "916",
+    "917",
+    "918",
+    "997"
+   ]
+  },
+  {
+   "name": "Псковская область",
+   "slug": "pskovskaya-oblast",
+   "url": "https://pochtovyindex.ru/pskovskaya-oblast/",
+   "offices": 521,
+   "areas": 24,
+   "cities": 388,
+   "index_prefixes": [
+    "180",
+    "181",
+    "182",
+    "995"
+   ]
+  },
+  {
+   "name": "Республика Адыгея",
+   "slug": "respublika-adygeya",
+   "url": "https://pochtovyindex.ru/respublika-adygeya/",
+   "offices": 164,
+   "areas": 7,
+   "cities": 99,
+   "index_prefixes": [
+    "385",
+    "926"
+   ]
+  },
+  {
+   "name": "Республика Алтай",
+   "slug": "respublika-altay",
+   "url": "https://pochtovyindex.ru/respublika-altay/",
+   "offices": 151,
+   "areas": 10,
+   "cities": 102,
+   "index_prefixes": [
+    "649"
+   ]
+  },
+  {
+   "name": "Республика Башкортостан",
+   "slug": "respublika-bashkortostan",
+   "url": "https://pochtovyindex.ru/respublika-bashkortostan/",
+   "offices": 1759,
+   "areas": 54,
+   "cities": 1028,
+   "index_prefixes": [
+    "450",
+    "452",
+    "453",
+    "901",
+    "911",
+    "913",
+    "914",
+    "915",
+    "916",
+    "917",
+    "992",
+    "996"
+   ]
+  },
+  {
+   "name": "Республика Бурятия",
+   "slug": "respublika-buryatiya",
+   "url": "https://pochtovyindex.ru/respublika-buryatiya/",
+   "offices": 389,
+   "areas": 21,
+   "cities": 206,
+   "index_prefixes": [
+    "670",
+    "671",
+    "994"
+   ]
+  },
+  {
+   "name": "Республика Дагестан",
+   "slug": "respublika-dagestan",
+   "url": "https://pochtovyindex.ru/respublika-dagestan/",
+   "offices": 655,
+   "areas": 41,
+   "cities": 381,
+   "index_prefixes": [
+    "367",
+    "368",
+    "913",
+    "916",
+    "917",
+    "918"
+   ]
+  },
+  {
+   "name": "Республика Ингушетия",
+   "slug": "respublika-ingushetiya",
+   "url": "https://pochtovyindex.ru/respublika-ingushetiya/",
+   "offices": 82,
+   "areas": 4,
+   "cities": 35,
+   "index_prefixes": [
+    "386"
+   ]
+  },
+  {
+   "name": "Республика Калмыкия",
+   "slug": "respublika-kalmykiya",
+   "url": "https://pochtovyindex.ru/respublika-kalmykiya/",
+   "offices": 162,
+   "areas": 13,
+   "cities": 116,
+   "index_prefixes": [
+    "358",
+    "359"
+   ]
+  },
+  {
+   "name": "Республика Карелия",
+   "slug": "respublika-kareliya",
+   "url": "https://pochtovyindex.ru/respublika-kareliya/",
+   "offices": 324,
+   "areas": 15,
+   "cities": 183,
+   "index_prefixes": [
+    "185",
+    "186",
+    "950"
+   ]
+  },
+  {
+   "name": "Республика Коми",
+   "slug": "respublika-komi",
+   "url": "https://pochtovyindex.ru/respublika-komi/",
+   "offices": 530,
+   "areas": 12,
+   "cities": 225,
+   "index_prefixes": [
+    "167",
+    "168",
+    "169",
+    "948",
+    "949"
+   ]
+  },
+  {
+   "name": "Республика Крым",
+   "slug": "respublika-krym",
+   "url": "https://pochtovyindex.ru/respublika-krym/",
+   "offices": 582,
+   "areas": 14,
+   "cities": 341,
+   "index_prefixes": [
+    "295",
+    "296",
+    "297",
+    "298",
+    "805"
+   ]
+  },
+  {
+   "name": "Республика Марий Эл",
+   "slug": "respublika-mariy-el",
+   "url": "https://pochtovyindex.ru/respublika-mariy-el/",
+   "offices": 318,
+   "areas": 14,
+   "cities": 204,
+   "index_prefixes": [
+    "424",
+    "425",
+    "996"
+   ]
+  },
+  {
+   "name": "Республика Мордовия",
+   "slug": "respublika-mordoviya",
+   "url": "https://pochtovyindex.ru/respublika-mordoviya/",
+   "offices": 564,
+   "areas": 22,
+   "cities": 384,
+   "index_prefixes": [
+    "430",
+    "431",
+    "995"
+   ]
+  },
+  {
+   "name": "Республика Саха (Якутия)",
+   "slug": "respublika-saha-yakutiya",
+   "url": "https://pochtovyindex.ru/respublika-saha-yakutiya/",
+   "offices": 553,
+   "areas": 34,
+   "cities": 385,
+   "index_prefixes": [
+    "677",
+    "678"
+   ]
+  },
+  {
+   "name": "Республика Северная Осетия — Алания",
+   "slug": "respublika-severnaya-osetiya-alaniya",
+   "url": "https://pochtovyindex.ru/respublika-severnaya-osetiya-alaniya/",
+   "offices": 220,
+   "areas": 8,
+   "cities": 102,
+   "index_prefixes": [
+    "362",
+    "363"
+   ]
+  },
+  {
+   "name": "Республика Татарстан",
+   "slug": "respublika-tatarstan",
+   "url": "https://pochtovyindex.ru/respublika-tatarstan/",
+   "offices": 1650,
+   "areas": 43,
+   "cities": 904,
+   "index_prefixes": [
+    "420",
+    "421",
+    "422",
+    "423",
+    "901",
+    "910",
+    "911",
+    "913",
+    "914",
+    "915",
+    "916",
+    "917",
+    "991"
+   ]
+  },
+  {
+   "name": "Республика Тыва",
+   "slug": "respublika-tyva",
+   "url": "https://pochtovyindex.ru/respublika-tyva/",
+   "offices": 144,
+   "areas": 17,
+   "cities": 103,
+   "index_prefixes": [
+    "667",
+    "668"
+   ]
+  },
+  {
+   "name": "Республика Хакасия",
+   "slug": "respublika-hakasiya",
+   "url": "https://pochtovyindex.ru/respublika-hakasiya/",
+   "offices": 177,
+   "areas": 8,
+   "cities": 92,
+   "index_prefixes": [
+    "655"
+   ]
+  },
+  {
+   "name": "Ростовская область",
+   "slug": "rostovskaya-oblast",
+   "url": "https://pochtovyindex.ru/rostovskaya-oblast/",
+   "offices": 1493,
+   "areas": 43,
+   "cities": 723,
+   "index_prefixes": [
+    "344",
+    "346",
+    "347",
+    "901",
+    "911",
+    "913",
+    "914",
+    "915",
+    "916",
+    "917",
+    "918",
+    "930",
+    "995"
+   ]
+  },
+  {
+   "name": "Рязанская область",
+   "slug": "ryazanskaya-oblast",
+   "url": "https://pochtovyindex.ru/ryazanskaya-oblast/",
+   "offices": 666,
+   "areas": 25,
+   "cities": 375,
+   "index_prefixes": [
+    "390",
+    "391",
+    "911",
+    "913",
+    "914",
+    "915",
+    "916",
+    "917",
+    "995"
+   ]
+  },
+  {
+   "name": "Самарская область",
+   "slug": "samarskaya-oblast",
+   "url": "https://pochtovyindex.ru/samarskaya-oblast/",
+   "offices": 1139,
+   "areas": 27,
+   "cities": 515,
+   "index_prefixes": [
+    "131",
+    "443",
+    "445",
+    "446",
+    "901",
+    "910",
+    "911",
+    "913",
+    "914",
+    "915",
+    "916",
+    "917",
+    "918",
+    "992"
+   ]
+  },
+  {
+   "name": "Санкт-Петербург",
+   "slug": "sankt-peterburg",
+   "url": "https://pochtovyindex.ru/sankt-peterburg/",
+   "offices": 923,
+   "areas": 0,
+   "cities": 27,
+   "index_prefixes": [
+    "188",
+    "190",
+    "191",
+    "192",
+    "193",
+    "194",
+    "195",
+    "196",
+    "197",
+    "198",
+    "199",
+    "200",
+    "901",
+    "910",
+    "914",
+    "915",
+    "916",
+    "917",
+    "918",
+    "919",
+    "922",
+    "990"
+   ]
+  },
+  {
+   "name": "Саратовская область",
+   "slug": "saratovskaya-oblast",
+   "url": "https://pochtovyindex.ru/saratovskaya-oblast/",
+   "offices": 1138,
+   "areas": 37,
+   "cities": 684,
+   "index_prefixes": [
+    "410",
+    "412",
+    "413",
+    "913",
+    "914",
+    "915",
+    "916",
+    "917",
+    "995"
+   ]
+  },
+  {
+   "name": "Сахалинская область",
+   "slug": "sahalinskaya-oblast",
+   "url": "https://pochtovyindex.ru/sahalinskaya-oblast/",
+   "offices": 240,
+   "areas": 17,
+   "cities": 109,
+   "index_prefixes": [
+    "693",
+    "694"
+   ]
+  },
+  {
+   "name": "Свердловская область",
+   "slug": "sverdlovskaya-oblast",
+   "url": "https://pochtovyindex.ru/sverdlovskaya-oblast/",
+   "offices": 1257,
+   "areas": 30,
+   "cities": 462,
+   "index_prefixes": [
+    "620",
+    "622",
+    "623",
+    "624",
+    "901",
+    "911",
+    "913",
+    "916",
+    "917",
+    "918",
+    "919",
+    "991"
+   ]
+  },
+  {
+   "name": "Севастополь",
+   "slug": "sevastopol",
+   "url": "https://pochtovyindex.ru/sevastopol/",
+   "offices": 76,
+   "areas": 0,
+   "cities": 18,
+   "index_prefixes": [
+    "299"
+   ]
+  },
+  {
+   "name": "Смоленская область",
+   "slug": "smolenskaya-oblast",
+   "url": "https://pochtovyindex.ru/smolenskaya-oblast/",
+   "offices": 596,
+   "areas": 25,
+   "cities": 429,
+   "index_prefixes": [
+    "214",
+    "215",
+    "216",
+    "976"
+   ]
+  },
+  {
+   "name": "Ставропольский край",
+   "slug": "stavropolskiy-kray",
+   "url": "https://pochtovyindex.ru/stavropolskiy-kray/",
+   "offices": 747,
+   "areas": 26,
+   "cities": 403,
+   "index_prefixes": [
+    "355",
+    "356",
+    "357",
+    "917",
+    "996"
+   ]
+  },
+  {
+   "name": "Тамбовская область",
+   "slug": "tambovskaya-oblast",
+   "url": "https://pochtovyindex.ru/tambovskaya-oblast/",
+   "offices": 773,
+   "areas": 23,
+   "cities": 543,
+   "index_prefixes": [
+    "392",
+    "393",
+    "901",
+    "931"
+   ]
+  },
+  {
+   "name": "Тверская область",
+   "slug": "tverskaya-oblast",
+   "url": "https://pochtovyindex.ru/tverskaya-oblast/",
+   "offices": 1075,
+   "areas": 14,
+   "cities": 252,
+   "index_prefixes": [
+    "170",
+    "171",
+    "172",
+    "915",
+    "996"
+   ]
+  },
+  {
+   "name": "Томская область",
+   "slug": "tomskaya-oblast",
+   "url": "https://pochtovyindex.ru/tomskaya-oblast/",
+   "offices": 421,
+   "areas": 16,
+   "cities": 223,
+   "index_prefixes": [
+    "634",
+    "636",
+    "911",
+    "913",
+    "915",
+    "916",
+    "917"
+   ]
+  },
+  {
+   "name": "Тульская область",
+   "slug": "tulskaya-oblast",
+   "url": "https://pochtovyindex.ru/tulskaya-oblast/",
+   "offices": 664,
+   "areas": 23,
+   "cities": 379,
+   "index_prefixes": [
+    "142",
+    "300",
+    "301",
+    "915",
+    "916",
+    "995"
+   ]
+  },
+  {
+   "name": "Тюменская область",
+   "slug": "tyumenskaya-oblast",
+   "url": "https://pochtovyindex.ru/tyumenskaya-oblast/",
+   "offices": 612,
+   "areas": 22,
+   "cities": 351,
+   "index_prefixes": [
+    "625",
+    "626",
+    "627",
+    "901",
+    "911",
+    "913",
+    "916",
+    "917",
+    "918",
+    "919"
+   ]
+  },
+  {
+   "name": "Удмуртская Республика",
+   "slug": "udmurtskaya-respublika",
+   "url": "https://pochtovyindex.ru/udmurtskaya-respublika/",
+   "offices": 651,
+   "areas": 25,
+   "cities": 374,
+   "index_prefixes": [
+    "426",
+    "427",
+    "901",
+    "911",
+    "913",
+    "916"
+   ]
+  },
+  {
+   "name": "Ульяновская область",
+   "slug": "ulyanovskaya-oblast",
+   "url": "https://pochtovyindex.ru/ulyanovskaya-oblast/",
+   "offices": 663,
+   "areas": 21,
+   "cities": 403,
+   "index_prefixes": [
+    "432",
+    "433",
+    "913",
+    "915",
+    "916",
+    "917"
+   ]
+  },
+  {
+   "name": "Хабаровский край",
+   "slug": "habarovskiy-kray",
+   "url": "https://pochtovyindex.ru/habarovskiy-kray/",
+   "offices": 494,
+   "areas": 17,
+   "cities": 214,
+   "index_prefixes": [
+    "680",
+    "681",
+    "682",
+    "901",
+    "914",
+    "916",
+    "917",
+    "918",
+    "996"
+   ]
+  },
+  {
+   "name": "Ханты-Мансийский автономный округ — Югра",
+   "slug": "hanty-mansiyskiy-avtonomnyy-okrug-yugra",
+   "url": "https://pochtovyindex.ru/hanty-mansiyskiy-avtonomnyy-okrug-yugra/",
+   "offices": 260,
+   "areas": 9,
+   "cities": 136,
+   "index_prefixes": [
+    "628",
+    "996"
+   ]
+  },
+  {
+   "name": "Челябинская область",
+   "slug": "chelyabinskaya-oblast",
+   "url": "https://pochtovyindex.ru/chelyabinskaya-oblast/",
+   "offices": 1009,
+   "areas": 26,
+   "cities": 372,
+   "index_prefixes": [
+    "454",
+    "455",
+    "456",
+    "457",
+    "911",
+    "917",
+    "918",
+    "996"
+   ]
+  },
+  {
+   "name": "Чеченская Республика",
+   "slug": "chechenskaya-respublika",
+   "url": "https://pochtovyindex.ru/chechenskaya-respublika/",
+   "offices": 299,
+   "areas": 15,
+   "cities": 160,
+   "index_prefixes": [
+    "364",
+    "366",
+    "992"
+   ]
+  },
+  {
+   "name": "Чувашская Республика",
+   "slug": "chuvashskaya-respublika",
+   "url": "https://pochtovyindex.ru/chuvashskaya-respublika/",
+   "offices": 466,
+   "areas": 21,
+   "cities": 321,
+   "index_prefixes": [
+    "428",
+    "429",
+    "996"
+   ]
+  },
+  {
+   "name": "Чукотский автономный округ",
+   "slug": "chukotskiy-avtonomnyy-okrug",
+   "url": "https://pochtovyindex.ru/chukotskiy-avtonomnyy-okrug/",
+   "offices": 86,
+   "areas": 6,
+   "cities": 44,
+   "index_prefixes": [
+    "689"
+   ]
+  },
+  {
+   "name": "Ямало-Ненецкий автономный округ",
+   "slug": "yamalo-neneckiy-avtonomnyy-okrug",
+   "url": "https://pochtovyindex.ru/yamalo-neneckiy-avtonomnyy-okrug/",
+   "offices": 136,
+   "areas": 7,
+   "cities": 52,
+   "index_prefixes": [
+    "629"
+   ]
+  },
+  {
+   "name": "Ярославская область",
+   "slug": "yaroslavskaya-oblast",
+   "url": "https://pochtovyindex.ru/yaroslavskaya-oblast/",
+   "offices": 537,
+   "areas": 17,
+   "cities": 287,
+   "index_prefixes": [
+    "150",
+    "152",
+    "913",
+    "914",
+    "915",
+    "916",
+    "917",
+    "996"
+   ]
+  }
+ ]
+}
